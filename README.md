@@ -8,4 +8,6 @@ In both command prompts, run: npm run dev
 
 The frontend should load the website automatically for you, and the backend should run so you can input in the frontend with results showing.
 
-To run the system tests, run: npm test Both the frontend and backend have seperate tests. Both can be run seperately.
+To run the system tests, run: npm test 
+
+Both the frontend and backend have seperate tests. Both can be run seperately.
