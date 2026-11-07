@@ -1,0 +1,1 @@
+* stockController, change to make sure value is string
